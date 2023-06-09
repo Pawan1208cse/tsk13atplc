@@ -4,7 +4,7 @@ function addAndCapitalizeStrings(str1, str2) {
   }
   
   // Example usage
-  var string1 = "Hello";
+  var string1 = "engineering";
   var string2 = "M.C.E MOTIHARI";
   var combinedStrings = addAndCapitalizeStrings(string1, string2);
   console.log(combinedStrings);
