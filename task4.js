@@ -6,7 +6,7 @@ function getStringLengthInBytes(str) {
   }
   
   // Example usage
-  var myString = "Hello, india!";
+  var myString = "Hello, moto!";
   var byteLength = getStringLengthInBytes(myString);
   console.log("Length in bytes:", byteLength);
     
